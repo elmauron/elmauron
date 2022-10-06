@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @elmauron
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning HTML / CSS / Functional testing / Python
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning HTML / CSS / Functional testing / Python / C++
 - 📫 How to reach me: maurosagasti@gmail.com
 
 <!---
