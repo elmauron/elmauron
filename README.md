@@ -10,6 +10,8 @@
 
 - **Dart y Flutter**: Desarrollo de aplicaciones móviles multiplataforma, priorizando interfaces de usuario intuitivas y rendimiento óptimo.
 
+- **Además, he realizado proyectos académicos utilizando tecnologías como Node.js y Python Flask.**
+
 ## Proyectos Destacados
 
 - **miniJuegoJava**: Trabajo final de Programación III, un juego de rol de cartas desarrollado en Java con interfaz gráfica en Swing. 
